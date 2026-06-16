@@ -1,0 +1,29 @@
+# 🍽️ Berliner Küche — AI Restaurant Assistant
+
+AI-powered restaurant chatbot for a German restaurant. 
+Customers can order food, check allergens, and get 
+recommendations in English and German.
+
+## 🚀 Live Demo
+[Click here to try it](your-replit-link)
+
+## ✨ Features
+- 🇩🇪 Bilingual English/German support
+- 🍽️ Full menu with prices in euros
+- ⚠️ Allergen information
+- 🤖 AI recommendations
+- 🔒 Rate limiting & input validation
+- ⚡ Real-time AI responses
+
+## 🛠️ Tech Stack
+Python · Flask · Groq AI · HTML · CSS · JavaScript
+
+## 🔒 Security
+- API keys in environment variables only
+- Input validation on all endpoints
+- Rate limiting on chat endpoint
+- Error handling for API failures
+
+## Author
+Mohd Sharique — KI-Ingenieur, Berlin
+github.com/Desort17
